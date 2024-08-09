@@ -1,4 +1,4 @@
-# deepfake-nillion
+# Deepfake Detector-Nillion
 HHG Project on Nillion Track
 
 # DeepFake Detector
